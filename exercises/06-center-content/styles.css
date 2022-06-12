@@ -1,1 +1,9 @@
-body{background:blue;}
+body {
+	background: blue;
+}
+
+.container {
+	background-color: rgb(194, 194, 194);
+	width: 400px;
+	margin: 0 auto;
+}

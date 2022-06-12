@@ -1,4 +1,26 @@
-/* your code here */
+.wrapper {
+	display: block;
+}
+
+h1 {
+	margin: 0 auto;
+}
+
+header {
+	margin: 1%;
+}
+
+nav {
+	float: left;
+	width: 19%;
+	margin: 1%;
+}
+
+section {
+	float: right;
+	width: 77%;
+	margin: 1%;
+}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
